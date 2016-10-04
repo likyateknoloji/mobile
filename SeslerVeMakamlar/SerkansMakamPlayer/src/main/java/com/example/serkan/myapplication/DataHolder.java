@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by serkan on 1.09.16.
+ * Created by serkan taş on 1.09.16.
  */
 public class DataHolder {
 
