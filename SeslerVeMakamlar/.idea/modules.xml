@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SerkansMakamPlayer/SerkansMakamPlayer.iml" filepath="$PROJECT_DIR$/SerkansMakamPlayer/SerkansMakamPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeslerVeMakamlar.iml" filepath="$PROJECT_DIR$/SeslerVeMakamlar.iml" />
+    </modules>
+  </component>
+</project>
